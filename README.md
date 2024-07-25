@@ -19,8 +19,7 @@ In this project, I will explain the steps I used to create a web application tha
    * Python 3.x
    * Pip (Pythhon package Installer)
      
-### Installati<img width="959" alt="My Gradio Outcome" src="https://github.com/user-attachments/assets/376693af-395e-49ea-9089-46af0fb12c85">
-on
+### Installation
 1. Clone the repository
 2. Install the require libraries:
    - pip install gradio transformers pillow
@@ -73,7 +72,8 @@ For any questions or inquiries, please coontact:
 ## The System Interface:
 <img width="952" alt="Gradio Inerface 2" src="https://github.com/user-attachments/assets/206304ed-cd26-42f9-ba6f-e5fa1404ce6c">
 
-![Uploading My Gradio Outcome.png…]()
+
+<img width="959" alt="My Gradio Outcome" src="https://github.com/user-attachments/assets/376693af-395e-49ea-9089-46af0fb12c85">
 
 
 
