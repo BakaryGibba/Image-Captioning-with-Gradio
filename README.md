@@ -73,7 +73,7 @@ For any questions or inquiries, please coontact:
 <img width="952" alt="Gradio Inerface 2" src="https://github.com/user-attachments/assets/206304ed-cd26-42f9-ba6f-e5fa1404ce6c">
 
 
-## The Interface where the image is been uploaded:
+## The Interface where the image is been uploaded and showing the output:
 
 <img width="959" alt="My Gradio Outcome" src="https://github.com/user-attachments/assets/376693af-395e-49ea-9089-46af0fb12c85">
 
