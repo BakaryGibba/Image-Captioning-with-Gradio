@@ -65,5 +65,7 @@ Contributions are wellcome! Please fork this reporitory and submit a pull reques
 ## Contact
 For any questions or inquiries, please coontact:
     - Name: **Bakary Gibba**
+    
     - Email: bakarygibba055@gmail.com
+    
     - Linkedln: https://www.linkedin.com/in/bakary-gibba-6409bb248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
