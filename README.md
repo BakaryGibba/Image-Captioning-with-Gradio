@@ -68,3 +68,9 @@ For any questions or inquiries, please coontact:
 - Email: bakarygibba055@gmail.com
 - Linkedln: https://www.linkedin.com/in/bakary-gibba-6409bb248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+
+## The System Interface:
+<img width="952" alt="Gradio Inerface 2" src="https://github.com/user-attachments/assets/206304ed-cd26-42f9-ba6f-e5fa1404ce6c">
+
+
+<img width="833" alt="Screenshot 2024-04-18 180033" src="https://github.com/user-attachments/assets/55c5b0f7-7016-44b6-a71f-65e378b8d6d8">
