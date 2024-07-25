@@ -40,3 +40,29 @@ This will start a local web server. Open the provided URL in yout web browser to
 4. The generated caption will be displayed on the web page.
 
 ## Code Explaination
+### imports
+- **'gradio'** for building the web interface.
+- **'numpy'** for handling image arrays.
+- **'PIL'** 'S **'Image'** for image processing.
+- **'AutoProcessor'** and **'BlipForConditionalGeneration'** from **'transformers'** for loading the model and processor.
+
+  ## Model and Processor Intialization
+  The pretrained processor and model are loaded using the **'AutoProcessor'** and **'BlipForConditionalGeneration'** from the Salesforce model.
+
+  ## Caption Generation Function
+  - **Input Conversion**: Converts the input image (numpy array) to a PIL Image and converts it to RGB format.
+  - **Processing**: Prepares the image for the model.
+  - **Caption Generation**: Generates a caption using the model
+  - **Decoding**: Converts the generated tokens to readable text
+ 
+    ## Gradio Interface
+    Sets up Gradio interface for the **'caption_image'** function, specifying the input types as an image and the output type as text. It also provides a title and description for the web app.
+
+    ## Contributing
+    Contributions are wellcome! Please fork this reporitory and submit a pull request for any enhancement or bug fixes with explaination.
+
+    ## Contact
+    For any questions or inquiries, please coontact:
+    - Name: **Bakary Gibba**
+    - Email: bakarygibba055@gmail.com
+    - Linkedln: 
