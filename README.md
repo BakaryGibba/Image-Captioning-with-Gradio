@@ -73,4 +73,4 @@ For any questions or inquiries, please coontact:
 <img width="952" alt="Gradio Inerface 2" src="https://github.com/user-attachments/assets/206304ed-cd26-42f9-ba6f-e5fa1404ce6c">
 
 
-<img width="833" alt="Screenshot 2024-04-18 180033" src="https://github.com/user-attachments/assets/55c5b0f7-7016-44b6-a71f-65e378b8d6d8">
+
