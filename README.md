@@ -69,13 +69,7 @@ For any questions or inquiries, please coontact:
 - Linkedln: https://www.linkedin.com/in/bakary-gibba-6409bb248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-## The System Interface:
-<img width="952" alt="Gradio Inerface 2" src="https://github.com/user-attachments/assets/206304ed-cd26-42f9-ba6f-e5fa1404ce6c">
+## The System Interface Showing the Output:
 
-
-## The Interface where the image is been uploaded and showing the output:
-
-<img width="959" alt="My Gradio Outcome" src="https://github.com/user-attachments/assets/376693af-395e-49ea-9089-46af0fb12c85">
-
-
+https://github.com/user-attachments/assets/537d0f82-efb4-4687-a7f0-e4573a50e454
 
